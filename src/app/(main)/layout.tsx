@@ -110,7 +110,7 @@ function MainLayoutContent({ children }: { children: React.ReactNode }) {
     const hasReloaded = sessionStorage.getItem('hasReloaded');
     if (!hasReloaded && window.innerWidth >= 1024 && !('ontouchstart' in window)) {
         sessionStorage.setItem('hasReloaded', 'true');
-        window.location.reload(true);
+        window.location.reload();
         return;
     }
 

@@ -206,8 +206,7 @@ export default function DashboardPage() {
                 });
             });
         }
-        
-        router.replace('/dashboard', undefined, { shallow: true });
+        router.replace('/dashboard');
     }
   }, [router, toast, settings.adhanVoice]);
   

@@ -34,7 +34,7 @@ export default function ProfilePage() {
         async function fetchProfile() {
             if (!firestore) return;
             setIsLoading(true);
-            const profile = await getUserProfile(firestore, user.uid);
+            const profile = user ? await getUserProfile(firestore, user.uid) : null;
             if (profile) {
                 setUsername(profile.username || '');
                 setCity(profile.city || '');

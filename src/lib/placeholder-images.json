@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "story-prophet-yunus",
+      "description": "Prophet Yunus in the belly of the whale.",
+      "imageUrl": "https://images.unsplash.com/photo-1721751028472-e4ffbc162263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGFsZSUyMG9jZWFufGVufDB8fHx8MTc3MTQyMzA5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "whale ocean"
+    },
+    {
+      "id": "story-people-of-the-cave",
+      "description": "The People of the Cave (Ashab al-Kahf) sleeping.",
+      "imageUrl": "https://images.unsplash.com/photo-1709483800905-1094063daff0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXZlJTIwc2xlZXBpbmd8ZW58MHx8fHwxNzcxNDIzMDk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cave sleeping"
+    },
+    {
+      "id": "story-prophet-musa-and-khidr",
+      "description": "Prophet Musa and Al-Khidr on their journey.",
+      "imageUrl": "https://images.unsplash.com/photo-1628084473300-af7616691b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Ym9hdCUyMHNlYXxlbnwwfHx8fDE3NzE0MjMwOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "boat sea"
+    },
+    {
+      "id": "story-prophet-ibrahim-and-the-fire",
+      "description": "Prophet Ibrahim remaining cool in the fire.",
+      "imageUrl": "https://images.unsplash.com/photo-1633440939413-6a4f0a7adfc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmaXJlJTIwbmlnaHR8ZW58MHx8fHwxNzcxNDIzMTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fire night"
+    },
+    {
+      "id": "story-queen-of-sheba",
+      "description": "The throne of the Queen of Sheba.",
+      "imageUrl": "https://images.unsplash.com/photo-1661006098770-8bdc80e034e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0aHJvbmUlMjBwYWxhY2V8ZW58MHx8fHwxNzcxNDIzMDk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "throne palace"
+    },
+    {
+      "id": "story-dhul-qarnayn",
+      "description": "Dhul-Qarnayn building the wall.",
+      "imageUrl": "https://images.unsplash.com/photo-1626876990243-533c63943aa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3YWxsJTIwbW91bnRhaW5zfGVufDB8fHx8MTc3MTQyMzEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wall mountains"
+    }
+  ]
+}
